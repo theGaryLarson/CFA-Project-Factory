@@ -58,7 +58,7 @@ Project maintainers who do not follow or enforce the Code of Conduct may be temp
 
 ## Reporting
 
-For other projects, or for incidents that are project-agnostic or impact multiple projects associated with CFA, please contact the [CFA Contact Email]() via <cfa-email>. For more detailed instructions on how to submit a report, including how to submit a report anonymously, please see our [Incident Resolution Procedures](). You can expect a response within three business days.
+For other projects, or for incidents that are project-agnostic or impact multiple projects associated with CFA, please contact the [CFA Contact Email]() via <cfa-email>. For more detailed instructions on how to submit a report, including how to submit a report anonymously, please see our [Incident Resolution Procedures](https://github.com/theGaryLarson/CFA-Project-Factory/blob/main/project-factory/incident-resolution-procedures.md). You can expect a response within three business days.
 
 For incidents occurring at CFA event that is produced by the Linux Foundation, please contact <eventconduct@CFA.io>.
 
