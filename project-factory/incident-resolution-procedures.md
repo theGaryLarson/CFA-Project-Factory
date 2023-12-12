@@ -1,7 +1,7 @@
-# CNCF Code of Conduct - Incident Resolution Procedures
+# CFA Code of Conduct - Incident Resolution Procedures
 
 ## Purpose and scope
-These Procedures address the following topics related to resolution of potential violations of the [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/main/code-of-conduct.md):
+These Procedures address the following topics related to resolution of potential violations of the [CFA Code of Conduct](https://github.com/CFA/foundation/blob/main/code-of-conduct.md):
 
 - [How to submit a report](#how-to-submit-a-report)
     - [Submit in writing](#submit-in-writing)
@@ -41,19 +41,19 @@ These Procedures address the following topics related to resolution of potential
 
 If you believe someone is in immediate physical danger, please call your local emergency number.
 
-You may report a potential violation of the [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/main/code-of-conduct.md) in writing or in a spoken conversation as indicated below.
+You may report a potential violation of the [CFA Code of Conduct](https://github.com/theGaryLarson/CFA-Project-Factory/blob/main/project-factory/code-of-conduct.md) in writing or in a spoken conversation as indicated below.
 
 ### Submit in writing
 
-To report a violation in writing, please email [conduct@cncf.io](mailto:conduct@cncf.io),  which goes to all primary (not alternate) members of the CNCF Code of Conduct Committee (CoC Committee). If you do not want your report to be received by all members of the CoC Committee, either because you want to submit a report anonymously or because one of the CoC Committee members has a conflict of interest, you may send your report directly to any individual member of the CoC Committee.
+To report a violation in writing, please email [`insert cfa email`](mailto:''),  which goes to all primary (not alternate) members of the CFA Code of Conduct Committee (CoC Committee). If you do not want your report to be received by all members of the CoC Committee, either because you want to submit a report anonymously or because one of the CoC Committee members has a conflict of interest, you may send your report directly to any individual member of the CoC Committee.
 
 ### Submit in spoken conversation
 
-If you prefer to report the violation in a spoken conversation, you may request a telephone conversation or virtual meeting with a CoC Committee member. If the incident occurs at an event, you may report the incident in person either to a member of the Linux Foundation Events Team or a member of the CNCF CoC Committee.
+If you prefer to report the violation in a spoken conversation, you may request a telephone conversation or virtual meeting with a CoC Committee member. If the incident occurs at an event, you may report the incident in person either to a member of the Events Team or a member of the CFA CoC Committee.
 
 ### How to report anonymously
 
-If you desire to submit a report anonymously, please send a message directly to any individual member of our CoC Committee through the CNCF Slack and let them know you would like to submit a Code of Conduct report anonymously. If you submit your report anonymously, that member of the CoC Committee will share the contents of your report with the rest of the CoC Committee, but they will not disclose your identity as the reporter to the other members of the CoC Committee (unless such disclosure is necessary to comply with applicable laws or a court order, or to protect you or someone else from imminent danger).
+If you desire to submit a report anonymously, please send a message directly to any individual member of our CoC Committee through the CFA Slack and let them know you would like to submit a Code of Conduct report anonymously. If you submit your report anonymously, that member of the CoC Committee will share the contents of your report with the rest of the CoC Committee, but they will not disclose your identity as the reporter to the other members of the CoC Committee (unless such disclosure is necessary to comply with applicable laws or a court order, or to protect you or someone else from imminent danger).
 
 ## What information to include in your report
 
@@ -61,7 +61,7 @@ When reporting a potential Code of Conduct violation, please include the followi
 
 -   Names of the people involved (or if names are unknown, use descriptions and any identifying information such as appearance, role, username, or handle), including the person whom you believe violated the Code of Conduct and any witnesses.
 
--   Description of the incident, including the events that occured, the date and time, and location or community space where the incident occured.
+-   Description of the incident, including the events that occurred, the date and time, and location or community space where the incident occurred.
 
 -   The portion(s) of the CoC you believe to be violated.
 
@@ -76,7 +76,7 @@ The Code of Conduct Committee will acknowledge receipt of your report in a timel
 
 ### Confirmation of Jurisdiction
 
-After a report is submitted, the CNCF CoC Committee will confirm who has jurisdiction over the incident under the Jurisdiction and Escalation Policy. If the CoC Committee does not have jurisdiction, it will transfer the incident to the applicable project or escalate the incident to the Linux Foundation. Reporters will be notified if this occurs unless they reported anonymously and did not provide their contact information. If the CNCF CoC Committee does have jurisdiction and is not required to escalate it, the committee will proceed to investigate and resolve the incident.
+After a report is submitted, the CFA CoC Committee will confirm who has jurisdiction over the incident under the Jurisdiction and Escalation Policy. If the CoC Committee does not have jurisdiction, it will transfer the incident to the applicable project or escalate the incident to the appropriate partner agency. Reporters will be notified if this occurs unless they reported anonymously and did not provide their contact information. If the CFA CoC Committee does have jurisdiction and is not required to escalate it, the committee will proceed to investigate and resolve the incident.
 
 ### Who will have access to reports
 
@@ -122,7 +122,7 @@ Restorative justice typically involves a mediated conversation between the accus
 
 #### Transformative Justice
 
-Transformative justice is a framework that seeks to address systemic issues that may have contributed to or encouraged the harmful behavior (e.g., systems or policies that reward bad behavior, or failure to educate newcomers about standards of conduct). If the CoC Committee determines there are any such systemic issues, the CoC Committee will recommend to the appropriate CNCF governing body or committee that such issues be addressed and, if appropriate, the CoC Committee may offer advice or other support.
+Transformative justice is a framework that seeks to address systemic issues that may have contributed to or encouraged the harmful behavior (e.g., systems or policies that reward bad behavior, or failure to educate newcomers about standards of conduct). If the CoC Committee determines there are any such systemic issues, the CoC Committee will recommend to the appropriate CFA governing body or committee that such issues be addressed and, if appropriate, the CoC Committee may offer advice or other support.
 
 ### Factors that the CoC Committee will consider
 
@@ -170,7 +170,7 @@ An incident is considered “resolved” when the CoC Committee has completed it
 
 ## Information Sharing
 
-Project-level Code of Conduct responders, the CNCF CoC Committee, and The Linux Foundation or CNCF staff may share information with each other on an as-needed basis about reported incidents and their resolution for the limited purposes of:
+Project-level Code of Conduct responders, the CFA CoC Committee, and The Linux Foundation or CFA staff may share information with each other on an as-needed basis about reported incidents and their resolution for the limited purposes of:
 
 -   Ensuring that the incident is resolved by the appropriate body with jurisdiction as described in the Jurisdiction and Escalation Policy,
 
@@ -180,21 +180,21 @@ Project-level Code of Conduct responders, the CNCF CoC Committee, and The Linux 
 
 -   Implementing protective measures and protecting community members from harm,
 
--   Issuing public transparency reports regarding CNCF Code of Conduct incidents (similar to [transparency reports issued by the Linux Foundation](https://www.linuxfoundation.org/blog/blog/linux-foundation-events-code-of-conduct-transparency-report-2021-event-summary/)). Such transparency reports will not disclose the identities of reporters, persons harmed, or witnesses. Depending on the resolution of an incident, the accused person might or might not be named in a transparency report or other communication to the community.
+-   Issuing public transparency reports regarding CFA Code of Conduct incidents (similar to [transparency reports issued by the Linux Foundation](https://www.linuxfoundation.org/blog/blog/linux-foundation-events-code-of-conduct-transparency-report-2021-event-summary/)). Such transparency reports will not disclose the identities of reporters, persons harmed, or witnesses. Depending on the resolution of an incident, the accused person might or might not be named in a transparency report or other communication to the community.
 
 ## Confidentiality Policy
 
-When the CNCF CoC Committee handles incident response, only members of the CNCF CoC Committee without hard conflicts of interest (see our Conflicts of Interest policy below) will have access to confidential information pertaining to the incident, including the identities of the reporters. The CNCF CoC Committee will not disclose the identities or confidential information provided by reporters or persons who were targeted or potentially harmed without their permission, except to a limited number of people on an as-needed basis for investigating and resolving the incident and protecting community members from harm. For example, the CNCF CoC Committee might need to disclose certain information about the incident to LF Events Staff in order to arrange for onsite support for a target of harassment, or to an external professional mediator or investigator who is engaged to assist with resolution of the incident. Confidential information about incidents will only be shared with individuals who are obligated to similarly maintain the confidentiality of such information.
+When the CFA CoC Committee handles incident response, only members of the CFA CoC Committee without hard conflicts of interest (see our Conflicts of Interest policy below) will have access to confidential information pertaining to the incident, including the identities of the reporters. The CFA CoC Committee will not disclose the identities or confidential information provided by reporters or persons who were targeted or potentially harmed without their permission, except to a limited number of people on an as-needed basis for investigating and resolving the incident and protecting community members from harm. For example, the CFA CoC Committee might need to disclose certain information about the incident to LF Events Staff in order to arrange for onsite support for a target of harassment, or to an external professional mediator or investigator who is engaged to assist with resolution of the incident. Confidential information about incidents will only be shared with individuals who are obligated to similarly maintain the confidentiality of such information.
 
-In some cases, in order to perform a fair and thorough investigation of a reported incident, it may be necessary to question the accused person about the incident. Although the CNCF CoC Committee will not disclose to the accused person who reported the incident or what witnesses have provided information, if only one person or a very small number of people were involved in or witnessed the incident, the accused person may be able to guess their identities.
+In some cases, in order to perform a fair and thorough investigation of a reported incident, it may be necessary to question the accused person about the incident. Although the CFA CoC Committee will not disclose to the accused person who reported the incident or what witnesses have provided information, if only one person or a very small number of people were involved in or witnessed the incident, the accused person may be able to guess their identities.
 
-In rare situations, the CNCF CoC Committee may be required to disclose confidential information pertaining to an investigation in order to comply with applicable laws, a subpoena, or court order, or to defend against litigation.
+In rare situations, the CFA CoC Committee may be required to disclose confidential information pertaining to an investigation in order to comply with applicable laws, a subpoena, or court order, or to defend against litigation.
 
-The Interim CoCC may, in its discretion, disclose the identity of the accused person to CNCF staff, CNCF community leaders, or CNCF community members if the Interim CoCC determines that such disclosure is necessary to protect the community or its members from harm.
+The Interim CoCC may, in its discretion, disclose the identity of the accused person to CFA staff, CFA community leaders, or CFA community members if the Interim CoCC determines that such disclosure is necessary to protect the community or its members from harm.
 
 ## No Retaliation
 
-The CNCF community will not tolerate retaliation against community members who report concerns under the CoC in good faith, or who assist in an investigation as witnesses or by providing relevant information. Acts of retaliation are themselves violations of the CNCF Code of Conduct. If you believe you have been retaliated against, please report it using the reporting process described above.
+The CFA community will not tolerate retaliation against community members who report concerns under the CoC in good faith, or who assist in an investigation as witnesses or by providing relevant information. Acts of retaliation are themselves violations of the CFA Code of Conduct. If you believe you have been retaliated against, please report it using the reporting process described above.
 
 ## Conflicts of Interest
 

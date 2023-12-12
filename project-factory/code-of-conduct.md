@@ -53,20 +53,20 @@ The following behaviors are also prohibited:
 
 Project maintainers have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct.
 By adopting this Code of Conduct, project maintainers commit themselves to fairly and consistently applying these principles to every aspect
-of managing a CFA project.
-Project maintainers who do not follow or enforce the Code of Conduct may be temporarily or permanently removed from the project team.
+of managing a project within CFA.
+Project maintainers who do not follow or enforce the Code of Conduct may be temporarily or permanently removed from the project team, including their project.
 
 ## Reporting
 
 For other projects, or for incidents that are project-agnostic or impact multiple projects associated with CFA, please contact the [CFA Contact Email]() via <cfa-email>. For more detailed instructions on how to submit a report, including how to submit a report anonymously, please see our [Incident Resolution Procedures](https://github.com/theGaryLarson/CFA-Project-Factory/blob/main/project-factory/incident-resolution-procedures.md). You can expect a response within three business days.
 
-For incidents occurring at CFA event that is produced by the Linux Foundation, please contact <eventconduct@CFA.io>.
+For incidents occurring at a CFA event that is produced by our `insert partner`, please contact `insert partner email`.
 
 ## Enforcement
 
 Upon review and investigation of a reported incident, the CoC response team that has jurisdiction will determine what action is appropriate based on this Code of Conduct and its related documentation.
 
-For information about which Code of Conduct incidents are handled by project leadership, which incidents are handled by the CFA Code of Conduct Committee, and which incidents are handled by the Linux Foundation (including its events team), see our [Jurisdiction Policy](https://github.com/CFA/foundation/blob/main/code-of-conduct/coc-committee-jurisdiction-policy.md).
+For information about which Code of Conduct incidents are handled by project leadership, or by the CFA Code of Conduct Committee, see our `insert Jurisdiction policy`.
 
 ## Amendments
 
