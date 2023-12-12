@@ -1,3 +1,5 @@
+## CFA Community Code of Conduct v1.0
+
 ### Community Code of Conduct
 
 As contributors, maintainers, and participants in the CFA community, and in the interest of fostering
