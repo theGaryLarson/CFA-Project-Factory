@@ -17,7 +17,7 @@ This code of conduct applies:
 
 ### CFA Events
 
-CFA events that are produced by [INSERT PARTNER AGENCIES] events staff are governed by [INSERT PARTNER CODE OF CONDUCT]() available on the event page. This is designed to be used in conjunction with the CFA Code of Conduct.
+CFA events that are produced by `INSERT PARTNER AGENCIES` events staff are governed by [INSERT PARTNER CODE OF CONDUCT]() available on the event page. This is designed to be used in conjunction with the CFA Code of Conduct.
 
 ## Our Standards
 
